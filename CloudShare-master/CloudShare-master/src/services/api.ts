@@ -55,7 +55,7 @@ class AuthSessionManager {
 export const authSession = new AuthSessionManager();
 
 // Base API URL: relative path `/api` proxied by Vite to FastAPI backend (http://127.0.0.1:8000)
-const API_BASE_URL = 'https://code-share-k1lc.vercel.app/api';
+const API_BASE_URL ='https://code-share-jahkfwgkh-college-0442.vercel.app/api';
 
 export const CloudShareAPI = {
   // ==================== AUTHENTICATION ====================
